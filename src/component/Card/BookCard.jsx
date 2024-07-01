@@ -9,7 +9,7 @@ export default function BookCard() {
           />
         </div>
         <div className="p-6">
-          <h4 className="block font-suwannphum text-sm font-semibold leading-snug tracking-normal text-blue-gray-900">
+          <h4 className="block font-suwannphum font-semibold leading-snug tracking-normal text-blue-gray-900">
             សន្ទានុក្រមពាក្យផ្ទុយ
           </h4>
           <p className="block font-suwannphum mt-3  antialiased font-normal leading-relaxed text-gray-700">
